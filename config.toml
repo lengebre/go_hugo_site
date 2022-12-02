@@ -1,4 +1,4 @@
-baseURL = "https://lengelbre.github.io/go_hugo_site"
+baseURL = "https://lengebre.github.io/go_hugo_site"
 languageCode = 'en-us'
 title = 'Hugo Site'
 theme = 'ananke'
